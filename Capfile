@@ -22,7 +22,6 @@ set :rvm_ruby_version, ' 2.2.0p0'
 
 require 'capistrano/bundler'
 require 'capistrano/rails'
-require 'capistrano/passenger'
 
 # require 'capistrano/rvm'
 # require 'capistrano/rbenv'
